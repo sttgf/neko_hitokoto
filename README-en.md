@@ -19,8 +19,7 @@ An intelligent terminal assistant based on DeepSeek API that provides fun feedba
 ### Automatic Installation (Recommended)
 
 ```bash
-# Download installation script
-curl -O https://raw.githubusercontent.com/sttgf/neko_hitokoto/main/neko_hitokoto.sh
+# IDK
 
 # Run installer
 chmod +x neko_hitokoto.sh
