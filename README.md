@@ -19,8 +19,7 @@
 ### 自动安装（推荐）
 
 ```bash
-# 下载安装脚本
-curl -O https://raw.githubusercontent.com/sttgf/neko_hitokoto/main/neko_hitokoto.sh
+# 我懒得写了（怒） 自己去找脚本（怒）
 
 # 运行安装程序
 chmod +x install_neko_dialog.sh
