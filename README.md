@@ -20,7 +20,7 @@
 
 ```bash
 # 下载安装脚本
-curl -O https://raw.githubusercontent.com/sttgf/neko_hitokoto/main/install_neko_dialog.sh
+curl -O https://raw.githubusercontent.com/sttgf/neko_hitokoto/main/neko_hitokoto.sh
 
 # 运行安装程序
 chmod +x install_neko_dialog.sh
