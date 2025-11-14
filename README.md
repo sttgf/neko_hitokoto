@@ -2,7 +2,7 @@
 
 # 程序员猫娘一言 🐱
 
-[English Version](https://github.com/sttgf/neko_hitokoto/main/README-en.md)
+[English verison](https://github.com/sttgf/neko_hitokoto/blob/main/README-en.md)
 
 一个基于DeepSeek API的智能终端助手，以程序员猫娘的角色为你的命令行操作提供有趣的反馈和建议。
 
