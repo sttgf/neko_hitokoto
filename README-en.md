@@ -2,7 +2,7 @@
 
 # Programmer Catgirl Hitokoto 🐱
 
-[中文版本](README.md)
+[中文版本]https://github.com/sttgf/neko_hitokoto/blob/main/README-en.md
 
 An intelligent terminal assistant based on DeepSeek API that provides fun feedback and suggestions in the role of a programmer catgirl for your command-line operations.
 
